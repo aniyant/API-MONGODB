@@ -71,11 +71,11 @@ data = [
 ]
 
 # making connection
-makeConn()
+#makeConn()
 # selection or creating collection
-make_collection()
+#make_collection()
 # to insert data uncomment the below code
 #insert_data(data)
 
 #find data
-find_data()
+#find_data()
